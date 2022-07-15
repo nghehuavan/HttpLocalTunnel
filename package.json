@@ -1,0 +1,21 @@
+{
+  "name": "stripe-sample",
+  "version": "1.0.0",
+  "description": "A sample Stripe implementation",
+  "main": "server.js",
+  "scripts": {
+    "start": "run.bat"
+  },
+  "author": "stripe-samples",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.8",
+    "stripe": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "localtunnel": "^2.0.2"
+  }
+}
