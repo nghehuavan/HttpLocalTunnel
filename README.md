@@ -17,11 +17,9 @@ npm start
 
 ## Special setup with http-proxy-cli
 
-## Server run on port 8080
-
-## [http-proxy-cli] forward all http request from 8081 to server at http://localhost:8080
-
-## [localtunnel] forward online https://nghehuavan8081.loca.lt to http://localhost:8081
+  - Server run on port 8080
+  - [http-proxy-cli] forward all http request from 8081 to server at http://localhost:8080
+  - [localtunnel] forward online https://nghehuavan8081.loca.lt to http://localhost:8081
 
 ```
 npm run proxy
