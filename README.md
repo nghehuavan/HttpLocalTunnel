@@ -12,8 +12,8 @@ npm install
 npm start
 ~~~
 
-3. Go to [http://localhost:8080](http://localhost:8080)
-4. Go to https://nghehuavan8080.loca.lt
+3. Go to local [http://localhost:8080](http://localhost:8080)
+4. Go to public [https://nghehuavan8080.loca.lt](https://nghehuavan8080.loca.lt)
 
 
 
