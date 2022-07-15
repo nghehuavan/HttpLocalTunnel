@@ -4,7 +4,8 @@
   "description": "A sample Stripe implementation",
   "main": "server.js",
   "scripts": {
-    "start": "run.bat"
+    "start": "run.bat",
+    "proxy": "proxy.bat"
   },
   "author": "stripe-samples",
   "license": "ISC",
@@ -15,7 +16,8 @@
     "stripe": "^9.0.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.19",
-    "localtunnel": "^2.0.2"
+    "http-proxy-cli": "^2.1.0",
+    "localtunnel": "^2.0.2",
+    "nodemon": "^2.0.19"
   }
 }
